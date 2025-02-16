@@ -2,9 +2,9 @@
 I'm Tomisin Akinwande
 
 - Software Engineering student
+- Data Scientist in Training
 - Web developer
 - Python developer
-- Artificial Intelligence & Machine Learning enthusiast
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
